@@ -1,0 +1,4 @@
+opencv_python==4.9.0.80
+openpyxl==3.0.10
+Pillow==10.3.0
+ultralytics==8.1.47
